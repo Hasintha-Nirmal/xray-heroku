@@ -1,13 +1,13 @@
 {
-    "name": "xray-heroku",
-    "description": "deploy xray to heroku",
-    "keywords": ["xray"],
+    "name": "b-land",
+    "description": "deploy bland on heroku",
+    "keywords": ["bland"],
     "env": {
         "UUID": {
-            "description": "xray UUID",
+            "description": "bland MYID",
             "value": "36cfc3de-ecfd-4752-ae6f-8f0f92035143"        
         }
     },
-    "repository": "https://github.com/i4amtrazy/xray-heroku",
+    "repository": "https://github.com/Hasintha-Nirmal/xray-heroku",
     "stack": "container"
 }
